@@ -1,0 +1,27 @@
+.moqua {
+  height: 100vh;
+  background-image: url(./img/anhnen.jpg);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+  color: yellow;
+  font-size: 50px;
+  margin-top: 100px;
+}
+
+h2 {
+  color: yellow;
+  font-size: 30px;
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+h3 {
+  margin-left: 400px;
+  color: yellow;
+  font-size: 50px;
+}
